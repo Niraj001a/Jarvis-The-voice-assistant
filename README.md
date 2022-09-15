@@ -1,0 +1,2 @@
+# Jarvis-The-voice-assistant
+The personal assistant can be used to perform different task just by our voice. It has system to understand about the subject end user is asking and make a quick as well as good response to the same. It is developed using Python language and its libraries. Task can be done like playing music, making it to remember something, asking jokes, normal talks like human and so on. 
